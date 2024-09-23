@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681323666 source:c:\users\genji\onedrive\dokumen\codeblocks\belajar c\tr_asd_h_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
